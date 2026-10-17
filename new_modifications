@@ -1,0 +1,1 @@
+This project implements a Binary Search Tree (BST) using C++. It allows users to enter node values, perform inorder traversal, display leaf nodes, count the total number of nodes, and calculate the height of each node. It helps understand tree data structures and their basic operations.
